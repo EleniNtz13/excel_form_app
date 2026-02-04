@@ -1,7 +1,7 @@
 # The first internshrip Project (excel_form_app)
 
 ## 🧩 Project Structure 
-
+```
 Project 1
 │── manage.py
 │── requirements.txt
