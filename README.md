@@ -1,3 +1,5 @@
 ## First Internship Project: excel_form_app
 
-🌟 This repository presents the finalized version of the Excel-based form created as part of the internship project. The implementation, structure, and functionality were developed through collaborative work during the internship. For more information about the form, you can also check the **Public-library-internship-Sparta** repository, where you can see the full process of creating the form, as well as its final appearance.
+🌟 This repository presents the finalized version of the Excel-based form created as part of the internship project. The implementation, structure, and functionality were developed through collaborative work during the internship. 
+
+😉 For more information about the form, you can also check the **Public-library-internship-Sparta** repository, where you can see the full process of creating the form, as well as its final appearance.
