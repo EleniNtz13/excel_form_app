@@ -1,4 +1,4 @@
-# The first internshrip Project (excel_form_app)
+# First Internship Project: excel_form_app
 
 ## 🧩 Project Structure 
 ```
